@@ -1,0 +1,139 @@
+<supermercados>
+    <supermercado>
+        <nombre>Kaypa</nombre>
+        <direccion>Calle Principal 123</direccion>
+        <geolocalizacion>
+            <latitud>40.123456</latitud>
+            <longitud>-3.987654</longitud>
+        </geolocalizacion>
+        <productos>
+            <producto>
+                <nombre>Manzanas</nombre>
+                <oferta>true</oferta>
+                <periodo_vigencia>2023-05-01 - 2023-05-15</periodo_vigencia>
+                <unidades>2</unidades>
+                <unidad_medida>kg</unidad_medida>
+                <precio>3.5</precio>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>Leche</nombre>
+                <oferta>false</oferta>
+                <periodo_vigencia>2023-05-01 - 2023-05-15</periodo_vigencia>
+                <unidades>1</unidades>
+                <unidad_medida>litro</unidad_medida>
+                <precio>1.53</precio>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>Peras</nombre>
+                <oferta>false</oferta>
+                <periodo_vigencia>2023-05-01 - 2023-05-15</periodo_vigencia>
+                <unidades>5</unidades>
+                <unidad_medida>kg</unidad_medida>
+                <precio>2.18</precio>
+                <adquirido>false</adquirido>
+            </producto>
+            <producto>
+                <nombre>Plátanos</nombre>
+                <oferta>false</oferta>
+                <periodo_vigencia>2023-05-01 - 2023-05-15</periodo_vigencia>
+                <unidades>1</unidades>
+                <unidad_medida>kg</unidad_medida>
+                <precio>1.85</precio>
+                <adquirido>true</adquirido>
+            </producto>
+        </productos>
+    </supermercado>
+    <supermercado>
+        <nombre>Mercadona</nombre>
+        <direccion>Pasaje Secundario 456</direccion>
+        <geolocalizacion>
+            <latitud>40.987654</latitud>
+            <longitud>-3.123456</longitud>
+        </geolocalizacion>
+        <productos>
+            <producto>
+                <nombre>Arroz</nombre>
+                <oferta>true</oferta>
+                <periodo_vigencia>2023-05-05 - 2023-05-20</periodo_vigencia>
+                <unidades>2</unidades>
+                <unidad_medida>paquete</unidad_medida>
+                <precio>1.5</precio>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>Pasta</nombre>
+                <oferta>false</oferta>
+                <periodo_vigencia>2023-05-05 - 2023-05-20</periodo_vigencia>
+                <unidades>2</unidades>
+                <unidad_medida>paquete</unidad_medida>
+                <precio>1.5</precio>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>Agua</nombre>
+                <oferta>false</oferta>
+                <periodo_vigencia>2023-05-05 - 2023-05-20</periodo_vigencia>
+                <unidades>1</unidades>
+                <unidad_medida>litro</unidad_medida>
+                <precio>1.53</precio>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>Cereales</nombre>
+                <oferta>false</oferta>
+                <periodo_vigencia>2023-05-05 - 2023-05-20</periodo_vigencia>
+                <unidades>1</unidades>
+                <unidad_medida>paquete</unidad_medida>
+                <precio>1.85</precio>
+                <adquirido>false</adquirido>
+            </producto>
+        </productos>
+    </supermercado>
+    <supermercado>
+        <nombre>Supercor</nombre>
+        <direccion>Avenida America 789</direccion>
+        <geolocalizacion>
+            <latitud>20.465297</latitud>
+            <longitud>-7.214587</longitud>
+        </geolocalizacion>
+        <productos>
+            <producto>
+                <nombre>Queso</nombre>
+                <oferta>true</oferta>
+                <periodo_vigencia>2023-05-05 - 2023-05-20</periodo_vigencia>
+                <unidades>2</unidades>
+                <unidad_medida>paquete</unidad_medida>
+                <precio>1.5</precio>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>Aceite</nombre>
+                <oferta>false</oferta>
+                <periodo_vigencia>2023-05-05 - 2023-05-20</periodo_vigencia>
+                <unidades>2</unidades>
+                <unidad_medida>botella</unidad_medida>
+                <precio>3.5</precio>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>Zumo de naranja</nombre>
+                <oferta>true</oferta>
+                <periodo_vigencia>2023-05-05 - 2023-05-20</periodo_vigencia>
+                <unidades>2</unidades>
+                <unidad_medida>botella</unidad_medida>
+                <precio>1.7</precio>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>Huevos</nombre>
+                <oferta>false</oferta>
+                <periodo_vigencia>2023-05-05 - 2023-05-20</periodo_vigencia>
+                <unidades>1</unidades>
+                <unidad_medida>docenas</unidad_medida>
+                <precio>1.43</precio>
+            </producto>
+        </productos>
+    </supermercado>
+</supermercados>

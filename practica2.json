@@ -1,0 +1,141 @@
+{
+    "supermercados": [
+        {
+            "nombre": "Kaypa",
+            "direccion": "Calle Principal 123",
+            "geolocalizacion": {
+                "latitud": 40.123456,
+                "longitud": -3.987654
+            },
+            "productos": [
+                {
+                    "nombre": "Manzanas",
+                    "oferta": true,
+                    "periodo_vigencia": "2023-05-01 - 2023-05-15",
+                    "unidades": 2,
+                    "unidad_medida": "kg",
+                    "precio": 3.5,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "Leche",
+                    "oferta": false,
+                    "periodo_vigencia": "2023-05-01 - 2023-05-15",
+                    "unidades": 1,
+                    "unidad_medida": "litro",
+                    "precio": 1.53,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "Peras",
+                    "oferta": false,
+                    "periodo_vigencia": "2023-05-01 - 2023-05-15",
+                    "unidades": 5,
+                    "unidad_medida": "kg",
+                    "precio": 2.18,
+                    "adquirido": false
+                },
+                {
+                    "nombre": "Plátanos",
+                    "oferta": false,
+                    "periodo_vigencia": "2023-05-01 - 2023-05-15",
+                    "unidades": 1,
+                    "unidad_medida": "kg",
+                    "precio": 1.85,
+                    "adquirido": true
+                }
+            ]
+        },
+        {
+            "nombre": "Mercadona",
+            "direccion": "Pasaje Secundario 456",
+            "geolocalizacion": {
+                "latitud": 40.987654,
+                "longitud": -3.123456
+            },
+            "productos": [
+                {
+                    "nombre": "Arroz",
+                    "oferta": true,
+                    "periodo_vigencia": "2023-05-05 - 2023-05-20",
+                    "unidades": 2,
+                    "unidad_medida": "paquete",
+                    "precio": 1.5,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "Pasta",
+                    "oferta": false,
+                    "periodo_vigencia": "2023-05-05 - 2023-05-20",
+                    "unidades": 2,
+                    "unidad_medida": "paquete",
+                    "precio": 1.5,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "Agua",
+                    "oferta": false,
+                    "periodo_vigencia": "2023-05-05 - 2023-05-20",
+                    "unidades": 1,
+                    "unidad_medida": "litro",
+                    "precio": 1.53,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "Cereales",
+                    "oferta": false,
+                    "periodo_vigencia": "2023-05-05 - 2023-05-20",
+                    "unidades": 1,
+                    "unidad_medida": "paquete",
+                    "precio": 1.85,
+                    "adquirido": false
+                }
+            ]
+        },
+        {
+            "nombre": "Supercor",
+            "direccion": "Avenida America 789",
+            "geolocalizacion": {
+                "latitud": 20.465297,
+                "longitud": -7.214587
+            },
+            "productos": [
+                {
+                    "nombre": "Queso",
+                    "oferta": true,
+                    "periodo_vigencia": "2023-05-05 - 2023-05-20",
+                    "unidades": 2,
+                    "unidad_medida": "paquete",
+                    "precio": 1.5,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "Aceite",
+                    "oferta": false,
+                    "periodo_vigencia": "2023-05-05 - 2023-05-20",
+                    "unidades": 2,
+                    "unidad_medida": "botella",
+                    "precio": 3.5,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "Zumo de naranja",
+                    "oferta": true,
+                    "periodo_vigencia": "2023-05-05 - 2023-05-20",
+                    "unidades": 2,
+                    "unidad_medida": "botella",
+                    "precio": 1.7,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "Huevos",
+                    "oferta": false,
+                    "periodo_vigencia": "2023-05-05 - 2023-05-20",
+                    "unidades": 1,
+                    "unidad_medida": "docenas",
+                    "precio": 1.43
+                }
+            ]
+        }
+    ]
+}
